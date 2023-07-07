@@ -1,0 +1,33 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "demo update",
+      "price": 1000,
+      "image": "https://vapa.vn/wp-content/uploads/2022/12/anh-3d-thien-nhien.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "fullname": "thangnq",
+      "email": "huyunetik7@gmail.com",
+      "password": "1234",
+      "phone": "0357858377",
+      "id": 1
+    },
+    {
+      "fullname": "thangnq",
+      "email": "thang@gmail.com",
+      "password": "1234",
+      "phone": "0357858377",
+      "id": 2
+    },
+    {
+      "fullname": "nguyen quang thang",
+      "email": "thangmanu.97@gmail.com",
+      "password": "1234",
+      "phone": "0344750590",
+      "id": 3
+    }
+  ]
+}
